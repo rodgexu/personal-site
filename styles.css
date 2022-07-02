@@ -3,10 +3,6 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.avatar {
-    width: 200px;
-}
-
 .card {
     width: 800px;
     margin: 0 auto;
